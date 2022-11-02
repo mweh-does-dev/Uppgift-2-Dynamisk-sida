@@ -1,0 +1,76 @@
+{
+    "workexperience": [ 
+        { 
+            "title": "By Josefin Berntsson", 
+            "year": "2016-2022",
+            "description":  [ 
+                "-Proprietorship", 
+                "-Certified Lashstylist",
+                "-Certified Lashlif & Browstylist", 
+                "-Educator", 
+                "-Social media marketing"
+            ]
+        },
+
+        {   
+            "title": "Lorensbergs theatre",
+            "year": "2016-2017",
+            "description": [ 
+                "-Waitress",
+                "-Bartender"
+    ]
+        }
+
+
+    ],
+
+  "education":[
+        {
+        "title": "Web development 1",
+        "year": "2021-2021",
+        "description": []
+        },
+
+       { 
+        "title": "Digital creation 1",
+        "year": "2021-2021",
+        "description": []
+            },
+
+        {
+    "title": "The LashArt Academy",
+    "year": "2018",
+    "description": [
+        "-Educator in Lashextensions, Lashlift & Browlift"
+        ]
+        },
+
+        {
+    "title": "Luxurious Lashes", 
+    "year": "2016",
+    "description": [
+    "-Beginner Eyelash Extension Course"
+        ]
+        },
+
+        {
+   "title": "Wendelsbergs Folk High School",
+   "year": "2015-2017",
+   "description": []
+        },
+    
+        {
+    "title": "Cybergymnasium",
+    "year": "2007-2010",
+    "description": [
+        "-Media program",
+        "-Photography"
+    ]
+        }
+
+  ]
+
+}
+
+
+
