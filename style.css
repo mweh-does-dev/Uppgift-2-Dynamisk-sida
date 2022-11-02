@@ -4,8 +4,6 @@
     padding:0;
 }
 
-/* rgb(255, 255, 255); 
-rgb(248, 232, 225); */
 
 :root{
     --primary-color: rgb(255, 255, 255);
@@ -23,9 +21,7 @@ rgb(248, 232, 225); */
 
 
 }
-/* 
-background: var(--primary-color);
-background: var(--secondary-color); */
+
 
 body {
     background: var(--secondary-color);
@@ -54,7 +50,7 @@ body {
     list-style: none;
     padding:0 30px;
     text-align: center;
-    /* border: 1px solid black; */
+   
 }
 
 
@@ -343,7 +339,7 @@ li{
 
 
 .about-section{
-    background-color: white;
+    background: var(--primary-color);
     border: 1px solid black;
     width: 50em;
     margin-top: 2em;
@@ -357,7 +353,7 @@ li{
 }
      
 .aboutdiv{
-    background:  rgb(255, 255, 255);
+    background: var(--primary-color);
     margin: 0.5em;
     text-align:center
       }
@@ -376,6 +372,8 @@ li{
      font-family: 'montserrat';
      text-align: center;
      margin: 10px 20px 10px 20px;
+     color:black;
+
     }
  
  
@@ -385,7 +383,7 @@ li{
     border-radius: 50%;
 }
 .about-div-pic{
-    background:  rgb(255, 255, 255);
+    background: var(--primary-color);
     margin: 0.5em;
     text-align:center;
     padding: 20px;
