@@ -1,4 +1,4 @@
-Uppgift-2-Dynamisk-sida
+Uppgift-2-Dynamisk-sida - School project
 
 https://mweh-does-dev.github.io/Uppgift-2-Dynamisk-sida/index.html
 
